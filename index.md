@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Sawyer's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+-Using git/github for source control
+-Only meeting once a week
+-Learning valuable software skills
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
