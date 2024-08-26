@@ -1,8 +1,8 @@
 ## Sawyer's First CS193 Homework
 
--Using git/github for source control
--Only meeting once a week
--Learning valuable software skills
+- Using git/github for source control
+- Only meeting once a week
+- Learning valuable software skills
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
